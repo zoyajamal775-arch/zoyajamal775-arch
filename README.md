@@ -1,4 +1,14 @@
-## Hi there 👋
+ Hi, I'm Zoya 👋
+
+I'm a web developer and basic Python developer.  
+This is my GitHub profile.
+
+### 🌱 Interests
+- Web development  
+- Python development  
+
+📧 Email: zoyajamal775@gmail.com
+
 
 <!--
 **zoyajamal775-arch/zoyajamal775-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
